@@ -6,7 +6,7 @@
 
 ## GitHub Pages
 
-- [Tolkien Fan Club](https://veroaghe.github.io/static_site_generator/): this is the end result of the _static site generator_ project from [boot.dev](https://www.boot.dev/). In this project I had to write code to convert Markdown pages into HTML pages. At the end of the project I got to set up a GitHub Pages account that would display these HTML pages, of which you can see the results here.
+- [Tolkien Fan Club](https://veroaghe.github.io/static_site_generator/): this is the end result of the _static site generator_ project from [boot.dev](https://www.boot.dev/). In this project I had to write code to convert Markdown pages into HTML pages. At the end of the project I got to set up a GitHub Pages account that would display these HTML pages, of which you can see the results here. I'm still **trying to develop more functionality** for the Static Site Generator, of which you can [follow the progress here](https://veroaghe.github.io/static_site_generator/project/).
 
 ## Personal Interests
 

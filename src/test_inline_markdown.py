@@ -90,6 +90,10 @@ class Test_SplitNodesDelimiter(unittest.TestCase):
         self.assertEqual(nodes[0].text_type, TextType.TEXT)
         self.assertEqual(nodes[1].text_type, TextType.ITALIC)
         self.assertEqual(nodes[2].text_type, TextType.TEXT)
+    
+    def test_Observer(self):
+        nodes = text_to_textnodes(">Observer\_")
+        self.assertEqual(nodes[0].text, ">Observer_")
 
 
 class test_LinkImageExtractors(unittest.TestCase):
